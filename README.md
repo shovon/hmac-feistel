@@ -14,7 +14,7 @@ This library provides a Feistel network cipher that uses HMAC-SHA256 as the roun
 ## Installation
 
 ```bash
-bun add github:yourusername/stupid-hmac-cipher
+bun add github:shovon/hmac-feistel
 ```
 
 ## Usage
